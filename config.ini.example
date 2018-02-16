@@ -1,0 +1,10 @@
+; config.ini
+[database]
+dsn = url:1521/ORCL
+user = username
+pass = password
+
+[aws]
+kinesis_stream = my_stream_name
+profile = my_profile
+region = us-east-1

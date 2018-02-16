@@ -1,0 +1,13 @@
+boto3==1.5.30
+botocore==1.8.44
+cx-Oracle==6.1
+DateTime==4.2
+docutils==0.14
+jmespath==0.9.3
+numpy==1.14.0
+pandas==0.22.0
+python-dateutil==2.6.1
+pytz==2018.3
+s3transfer==0.1.13
+six==1.11.0
+zope.interface==4.4.3
